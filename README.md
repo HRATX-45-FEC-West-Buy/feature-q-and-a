@@ -1,13 +1,10 @@
-# Project Name
+# Product Q&A
 
-> Project description
+> Create a module that allows users to browse questions submitted by other users about a particular product, see the community's answers, and filter based on question topic
 
 ## Related Projects
 
-  - https://github.com/teamName/repo
-  - https://github.com/teamName/repo
-  - https://github.com/teamName/repo
-  - https://github.com/teamName/repo
+  - https://github.com/HRATX-45-FEC-West-Buy/Image-Feature
 
 ## Table of Contents
 
